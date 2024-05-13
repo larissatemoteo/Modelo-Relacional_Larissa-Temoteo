@@ -9,8 +9,8 @@
 **Objetivo:** Ilustrar a configuração de dados inter-relacionados no projeto Abandono Zero, cujo propósito é estabelecer um conjunto de dados sobre os fatores determinantes da adoção, compra e abandono de animais, facilitando pesquisas futuras sobre o tema. A representação a seguir delineia as entidades, seus atributos e as conexões entre elas, oferecendo uma visão organizada e compreensível do banco de dados.
 &nbsp;&nbsp;&nbsp;&nbsp; Abaixo encontra-se os dois arquivos para baixar, sobre a modelagem relacional e a física:
 
-- [Modelagem Relacional](https://github.com/Leoogata/Modelo-Relacional-Leonardo-Ogata/blob/main/modelagem-relacional.xml)
-- [Modelagem Física](https://github.com/Leoogata/Modelo-Relacional-Leonardo-Ogata/blob/main/modelagem-fisica.sql)
+- [Modelagem Relacional](https://github.com/larissatemoteo/Modelo-Relacional_Larissa-Temoteo/blob/main/modelagem_relacional.xml)
+- [Modelagem Física](https://github.com/larissatemoteo/Modelo-Relacional_Larissa-Temoteo/blob/main/modelagem_f%C3%ADsica.sql)
 
 ## Entidades
 
@@ -190,7 +190,7 @@ Registra informações sobre o cão mais recente que o usuário possui.
 
 ## Diagrama
 
-![Diagrama](assets/Modelo-relaconal.png)
+![Diagrama](/assets/modelagem_bancoDeDados.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este diagrama ilustra as conexões entre diferentes entidades no modelo relacional. Cada entidade é representada por um retângulo, e as linhas entre elas representam os relacionamentos.
 
